@@ -1,0 +1,1 @@
+![DHT22 pinout](img/pinout_dht.png)
